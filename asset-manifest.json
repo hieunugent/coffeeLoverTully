@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/coffeelovertully/static/css/main.df78a8c9.chunk.css",
+    "main.js": "/coffeelovertully/static/js/main.cd5886fa.chunk.js",
+    "main.js.map": "/coffeelovertully/static/js/main.cd5886fa.chunk.js.map",
+    "runtime-main.js": "/coffeelovertully/static/js/runtime-main.4868a8ae.js",
+    "runtime-main.js.map": "/coffeelovertully/static/js/runtime-main.4868a8ae.js.map",
+    "static/js/2.c60b430a.chunk.js": "/coffeelovertully/static/js/2.c60b430a.chunk.js",
+    "static/js/2.c60b430a.chunk.js.map": "/coffeelovertully/static/js/2.c60b430a.chunk.js.map",
+    "index.html": "/coffeelovertully/index.html",
+    "precache-manifest.c9e39a647de90e03f46bb5032ef82313.js": "/coffeelovertully/precache-manifest.c9e39a647de90e03f46bb5032ef82313.js",
+    "service-worker.js": "/coffeelovertully/service-worker.js",
+    "static/css/main.df78a8c9.chunk.css.map": "/coffeelovertully/static/css/main.df78a8c9.chunk.css.map",
+    "static/js/2.c60b430a.chunk.js.LICENSE.txt": "/coffeelovertully/static/js/2.c60b430a.chunk.js.LICENSE.txt",
+    "static/media/final2020.jpg": "/coffeelovertully/static/media/final2020.152c1f13.jpg",
+    "static/media/final20202.jpg": "/coffeelovertully/static/media/final20202.58e077fc.jpg",
+    "static/media/final20203.jpg": "/coffeelovertully/static/media/final20203.e5489383.jpg",
+    "static/media/final20204.jpg": "/coffeelovertully/static/media/final20204.afa7e3cf.jpg",
+    "static/media/final20205.jpg": "/coffeelovertully/static/media/final20205.b81fcd81.jpg",
+    "static/media/final20206.jpg": "/coffeelovertully/static/media/final20206.f8566853.jpg",
+    "static/media/final20207.jpg": "/coffeelovertully/static/media/final20207.2aa4be84.jpg",
+    "static/media/logo.png": "/coffeelovertully/static/media/logo.9c3ed713.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4868a8ae.js",
+    "static/js/2.c60b430a.chunk.js",
+    "static/css/main.df78a8c9.chunk.css",
+    "static/js/main.cd5886fa.chunk.js"
+  ]
+}
