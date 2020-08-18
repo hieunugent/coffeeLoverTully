@@ -4,7 +4,7 @@ import './App.css';
 import MenuForm from './menu';
 import list from "./image/image";
 
-import logo from "./image/Aborn/logo/logo.png"
+import logo from "./image/tully/logo/logo.png"
 
 import { makeStyles } from "@material-ui/core/styles";
 import { Paper, Grid } from '@material-ui/core';
